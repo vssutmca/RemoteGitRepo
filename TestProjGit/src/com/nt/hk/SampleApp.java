@@ -16,6 +16,7 @@ public class SampleApp {
 		AdditionTwoNum addNum=new AdditionTwoNum();
 		System.out.println("Sum is"+addNum.add(10, 20));
 		System.out.println("hello Confilction");
+		System.out.println("for conflict test");
 		//close scanner
 		sc.close();
 
