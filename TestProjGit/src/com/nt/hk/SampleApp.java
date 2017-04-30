@@ -15,6 +15,7 @@ public class SampleApp {
 			System.out.println("I Love java");
 		AdditionTwoNum addNum=new AdditionTwoNum();
 		System.out.println("Sum is"+addNum.add(10, 20));
+		System.out.println("hello Confilction");
 		//close scanner
 		sc.close();
 
