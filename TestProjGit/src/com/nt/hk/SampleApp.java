@@ -13,6 +13,8 @@ public class SampleApp {
 		
 		for(int i=0;i<n;i++)
 			System.out.println("I Love java");
+		AdditionTwoNum addNum=new AdditionTwoNum();
+		System.out.println("Sum is"+addNum.add(10, 20));
 		//close scanner
 		sc.close();
 
